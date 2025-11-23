@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Inventorie</string>
+    <string name="add_new_item">+ Add New Item</string>
+    <string name="inventory">Inventorie</string>
+    <string name="add_item">Add Item</string>
+    <string name="permission">This app needs SMS access to send alerts when inventory runs out. Please enable SMS permissions to receive important notifications.</string>
+</resources>
